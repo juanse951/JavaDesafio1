@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bac8ef7e-8abe-4f35-b2ce-da4ed23ee875" name="Changes" comment="empezando de nuevo">
-      <change afterPath="$PROJECT_DIR$/src/Desafio.java" afterDir="false" />
+    <list default="true" id="bac8ef7e-8abe-4f35-b2ce-da4ed23ee875" name="Changes" comment="creando menu">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Desafio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Desafio.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="menuDesafio" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -47,7 +53,7 @@
   "keyToString": {
     "Application.Desafio.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "menuDesafio",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Modules",
@@ -72,11 +78,20 @@
       <option name="project" value="LOCAL" />
       <updated>1726755209256</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="creando menu">
+      <option name="closed" value="true" />
+      <created>1726755817171</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726755817171</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="empezando de nuevo" />
-    <option name="LAST_COMMIT_MESSAGE" value="empezando de nuevo" />
+    <MESSAGE value="creando menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="creando menu" />
   </component>
 </project>
